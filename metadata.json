@@ -1,0 +1,6 @@
+{
+  "name": "HLCRP - FiveM Roleplay Community",
+  "description": "الموقع الرسمي لسيرفر HLCRP للحياة الواقعية في FiveM - التقديم على الوايت ليست، القوانين والأنظمة، المتجر، والقطاعات الرسمية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
